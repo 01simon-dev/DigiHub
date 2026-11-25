@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Ndomo">
+  <rect width="800" height="1000" fill="#ecfdf5"/>
+  <circle cx="650" cy="180" r="210" fill="#0f766e" opacity="0.10"/>
+  <circle cx="130" cy="860" r="260" fill="#0f766e" opacity="0.08"/>
+  <rect x="70" y="70" width="660" height="860" rx="28" fill="none" stroke="#0f766e" stroke-width="2" opacity="0.35"/>
+  <text x="120" y="180" font-family="Segoe UI, Arial, sans-serif" font-size="26" letter-spacing="4" fill="#0f766e">COMIC</text>
+  <line x1="120" y1="215" x2="680" y2="215" stroke="#0f766e" stroke-width="3"/>
+  <foreignObject x="110" y="300" width="580" height="360">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Segoe UI,Arial,sans-serif;font-size:74px;font-weight:700;line-height:1.05;color:#0f172a">Ndomo</div>
+  </foreignObject>
+  <text x="120" y="870" font-family="Segoe UI, Arial, sans-serif" font-size="28" fill="#475569">DigiHub Originals</text>
+</svg>

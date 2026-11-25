@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#eff6ff"/><stop offset="1" stop-color="#bfdbfe"/></linearGradient></defs>
+<rect width="1200" height="800" fill="url(#sky)"/>
+<circle cx="600" cy="300" r="110" fill="#ffffff" opacity="0.9"/>
+<path d="M0 640 L300 380 L520 600 L760 320 L1200 670 L1200 800 L0 800 Z" fill="#2563eb" opacity="0.35"/>
+<path d="M0 700 L260 500 L480 680 L780 440 L1200 720 L1200 800 L0 800 Z" fill="#1d4ed8" opacity="0.55"/>
+<text x="60" y="100" font-family="Segoe UI,Arial,sans-serif" font-size="34" fill="#1e3a8a">Highland Sunrise</text>
+</svg>

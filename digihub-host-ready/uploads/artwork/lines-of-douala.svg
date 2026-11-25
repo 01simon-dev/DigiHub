@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+<rect width="1200" height="800" fill="#eff6ff"/>
+<rect y="520" width="1200" height="280" fill="#dbeafe"/>
+<path d="M0 520 L200 420 L360 520 L520 380 L700 520 L900 400 L1200 520" fill="none" stroke="#2563eb" stroke-width="8"/>
+<g fill="#2563eb" opacity="0.85">
+<rect x="120" y="400" width="80" height="280"/><rect x="250" y="450" width="60" height="230"/>
+<rect x="430" y="360" width="100" height="320"/><rect x="620" y="430" width="70" height="250"/>
+<rect x="820" y="380" width="110" height="300"/><rect x="1000" y="460" width="70" height="220"/>
+</g>
+<circle cx="980" cy="150" r="80" fill="#2563eb" opacity="0.25"/>
+<text x="60" y="100" font-family="Segoe UI,Arial,sans-serif" font-size="34" fill="#1e3a8a">Lines of Douala</text>
+</svg>
